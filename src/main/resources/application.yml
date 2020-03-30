@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: yjw-config
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: 
